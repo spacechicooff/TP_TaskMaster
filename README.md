@@ -8,3 +8,6 @@ Techno utulisé :
 • Docker pour la conteneurisation
 • GitHub pour le versionnement et la collaboration
 • Jira pour organiser les tâches du projet
+
+
+il faut docker
