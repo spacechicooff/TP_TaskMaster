@@ -10,4 +10,6 @@ Techno utulisé :
 • Jira pour organiser les tâches du projet
 
 
-il faut docker
+commande : 
+
+docker-compose up --build
